@@ -1,0 +1,6 @@
+school
+class
+college
+classes
+course
+homework
